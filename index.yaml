@@ -3,12 +3,12 @@ entries:
   kron-aapm-agent:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-03-13T10:48:14.70380764-04:00"
+    created: "2023-03-13T11:41:24.096565403-04:00"
     description: Kron Aapm Agent for Kubernetes
     digest: 6e968cf1c836fe6af28862cca73f1091c3b8b969032c68c732850b0a2aeebeda
     name: kron-aapm-agent
     type: application
     urls:
-    - https://github.com/krontechnology/kron-aapm-agent/kron-aapm-agent-1.1.0.tgz
+    - https://krontechnology.github.io/kron-aapm-agent/kron-aapm-agent-1.1.0.tgz
     version: 1.1.0
-generated: "2023-03-13T10:48:14.702832982-04:00"
+generated: "2023-03-13T11:41:24.094644507-04:00"
